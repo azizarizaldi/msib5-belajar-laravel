@@ -12,5 +12,16 @@
     <link rel="icon" href="assets/images/kampus-merdeka-logo.png" type="image/x-icon">
     <link rel="stylesheet" href="assets/css/style.css?version=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <style>
+        .text-paragraph {
+            margin: 0;
+            text-indent: 3rem;
+            text-align: justify;
+        }
+        .text-paragraph-no-indent {
+            margin: 0;
+            text-align: justify;
+        }
+    </style>
 </head>
 <body>
