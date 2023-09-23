@@ -15,7 +15,7 @@
                     <a class="nav-link {{ request()->routeIs('profile') ? 'active' : '' }}" href="{{ route('profile') }}">Profil</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link {{ request()->routeIs('campus') ? 'active' : '' }}" href="{{ route('campus') }}">Tentang Kampus</a>
+                    <a class="nav-link {{ request()->routeIs('campus') ? 'active' : '' }}" href="{{ route('campus') }}">Informasi Kampus</a>
                 </li>
             </ul>
         </div>
