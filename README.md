@@ -4,7 +4,11 @@
 Repo ini digunakan untuk latihan belajar laravel MSIB 5 di GITS.ID.
 
 ## Screenshot Halaman Home (Beranda)
-![Tampilan Awal](assets/images/home-page.png)
+![Tampilan Home](public/assets/images/home-page.png)
+## Screenshot Halaman Profil
+![Tampilan Profile](public/assets/images/profile-page.png)
+## Screenshot Halaman Informasi Kampus
+![Tampilan Campus](public/assets/images/campus-page.png)
 
 ## License
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
